@@ -2,3 +2,8 @@
 NEURAL NETWORK PROCESSING - FPGA
 ===================================
 This module instantiates a pretained neral network on programmable logic.
+
+
+Inspiration
+-----------------------------------
+- https://github.com/vipinkmenon/neuralNetwork.git
